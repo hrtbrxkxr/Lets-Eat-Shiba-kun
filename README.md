@@ -5,7 +5,7 @@ This is my first Unity 2D project. I created this project to improve my unity pr
 I like shiba dog so much then I think I want to create a game about shiba. So I come up with the idea about food that dog can eat and cannot.
 Finally I create this "Let's Eat Shiba-kun" game! You will play as shiba-kun to go through many stages by collecting food that dog can eat and you should avoid food that dog cannot eat to survive. It will be a food collecting instruction for each stage.
 
-I just upload only the scripts because all of contents is too big 😿 
+I just upload only the scripts and sprites because all of contents is too big 😿 
 
 ## How to play
 You can click this link and download it! https://hrtbrxkxr.itch.io/lets-eat-shiba-kun  
